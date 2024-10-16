@@ -36,7 +36,7 @@ body {
     align-items: flex-start;
     width: 100%;
     background-color: #bdf982;
-    /*overflow: auto;*/
+    overflow: auto;
     min-height: 550px;
 }
 
